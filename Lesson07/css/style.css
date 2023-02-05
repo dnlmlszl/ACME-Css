@@ -1,0 +1,38 @@
+body {
+    padding: 10%;
+    font-size: 2rem;
+    font-family: Poppins, sans-serif;
+}
+
+a {
+    /* text-decoration: none;
+    cursor: pointer;
+    color: blue; */
+    color: hsl(207, 44%, 49%);
+}
+
+/* a:visited {
+    color: red;
+} */
+
+/* how to set hover effect */
+
+a:hover, a:focus {
+    /* color: hsl(191, 44%, 49%, 0.8); */
+    color: hsl(207, 44%, 49%, 0.8);
+    /* opacity: 0.8; */
+}
+
+a:active {
+    color: green;
+}
+
+
+
+
+
+
+
+
+
+

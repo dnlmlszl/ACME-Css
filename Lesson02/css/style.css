@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    /* font-family: monospace; */
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid red;
+}
+
+html {
+    font-size: 1.3rem;
+}
+
+body {
+    /* font-size: 1.5rem; */
+    border: 2px solid black;
+}
+
+main {
+    font-family: monospace;
+}
+
+button, input, textarea, select {
+    font: inherit;
+}
+
+h1, h2 {
+    color: blue;
+}
+
+p {
+    /* color: purple!important; */
+    color: purple;
+}
+
+p {
+    color: orangered;
+}
+
+/* p span {
+    text-transform: uppercase;
+    background-color: gold;
+} */
+
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+.gray {
+    color: grey;
+}
+
+#second {
+    font-style: italic;
+}
