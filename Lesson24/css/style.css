@@ -269,11 +269,12 @@ a:active {
 }
 
 .contact__button {
-    padding: 0.5em;
+    padding: 0.5em 1em;
     border-radius: var(--BORDER-RADIUS);
     background-color: var(--HIGHLIGHT-COLOR);
-    color: var(--HEADER-COLOR);
+    color: var(--BUTTON-COLOR);
     font-weight: bold;
+    cursor: pointer;
 }
 
 /* || MENU */
